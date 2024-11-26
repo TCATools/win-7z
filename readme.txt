@@ -1,6 +1,8 @@
 7-Zip 18.00 beta
 ----------------
 
+The source code of this project is available at: https://7-zip.org/download.html
+
 7-Zip is a file archiver for Windows.
 
 7-Zip Copyright (C) 1999-2018 Igor Pavlov.
